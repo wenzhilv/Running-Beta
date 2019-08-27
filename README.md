@@ -1,2 +1,2 @@
 # Running-Beta
-Testing for the repository of Running Peak
+Testing for the repository of Peak Running.
